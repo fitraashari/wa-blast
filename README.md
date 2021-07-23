@@ -1,6 +1,6 @@
 ## Installation
 
-Download this repo .zip or clone via gitclone
+Download this repo .zip or clone via git clone
 
 Open terminal on project dir, then run this command
 ```bash
